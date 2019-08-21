@@ -1,0 +1,30 @@
+{
+  "name": "screamo",
+  "version": "1.0.0",
+  "description": "Mentions everyone in a Groupme group chat with the '@everyone' keyword",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordynniara/Screamo.git"
+  },
+  "author": "J. Niara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordynniara/Screamo/issues"
+  },
+  "homepage": "https://github.com/jordynniara/Screamo#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cool-ascii-faces": "^1.3.4",
+    "director": "^1.2.8",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}
